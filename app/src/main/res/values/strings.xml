@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub\'s repos</string>
+    <string name="carregando">Carregando…</string>
+    <string name="avatar_do_usuario">Avatar do usuario</string>
+    <string name="error_json">Erro ao carregar JSON</string>
+    <string name="error_internet">Verifique sua internet</string>
+    <string name="btn_tentar_novamente">Tentar Novamente</string>
+    <string name="fechar_aplicacao">Sair</string>
+</resources>
